@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Output Form</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+<body>
+
+   <center><table border="1">
+        <caption><strong>Informasi Produk</strong></caption>
+        <tr>
+            <td>Nama</td>
+            <td>:</td>
+            <td><code>NAMA PRODUK</code></td>
+        </tr>
+        <tr>
+            <td>Nim</td>
+            <td>:</td>
+            <td><code>NO NIM</code></td>
+        </tr>
+        <tr>
+            <td>Alamat</td>
+            <td>:</td>
+            <td><code>KETERANGAN ALAMAT</code></td>
+        </tr>
+        <tr>
+            <td>jenis</td>
+            <td>:</td>
+            <td><code>JENIS PRODUK</code></td>
+        </tr>
+    </table></center>
+</body>
+</html>
